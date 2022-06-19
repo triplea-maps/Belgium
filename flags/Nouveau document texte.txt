@@ -1,0 +1,9 @@
+Antwerp		#0036B6
+Hainaut		#DDD235
+Liège		#EBEBEB
+Limburg		#F45565
+Luxembourg	#00FF40
+Namur		#00FF80
+Oost-vl		#FFFF01
+West-vl		#FF0001
+Brussel-Brabant	#808001

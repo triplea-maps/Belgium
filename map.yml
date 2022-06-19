@@ -1,0 +1,7 @@
+map_name: Belgium
+games:
+- game_name: Belgium Provincial war-2A
+  file_name: Belgium_Provincial_War-2A.xml
+- game_name: Belgium Provincial war
+  file_name: Belgium_Provincial_War.xml
+version: 0
